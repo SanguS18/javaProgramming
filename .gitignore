@@ -1,0 +1,14 @@
+# Ignore class files
+*.class
+
+# Ignore build directories
+bin/
+out/
+build/
+target/
+
+# Ignore VS Code folder
+.vscode/
+
+# Ignore macOS files
+.DS_Store
