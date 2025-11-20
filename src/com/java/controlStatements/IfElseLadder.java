@@ -1,4 +1,4 @@
-package com;
+package com.java.controlStatements;
 
 public class IfElseLadder {
     public static void main(String[] args) {
